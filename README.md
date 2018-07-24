@@ -1,5 +1,6 @@
-# Decentralized Chat
-Decentralized chat dApp using Javascript and Smart Contracts
+# Chat Service
+Chat Microservice involving room name and user name written in jQuery and Node.js
+- This chat service can be integrated into any platform where a chat is required.
 
 # Author
   - Tejas Nikumbh
